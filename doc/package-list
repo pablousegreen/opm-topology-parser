@@ -1,0 +1,8 @@
+com.intelmas
+com.intelmas.config
+com.intelmas.controller
+com.intelmas.dto.model
+com.intelmas.repository.cassandra
+com.intelmas.service
+com.intelmas.service.impl
+com.intelmas.utils
